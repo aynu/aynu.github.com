@@ -1,3 +1,0 @@
-# Maven Repository
-
-## Snapshot Repository

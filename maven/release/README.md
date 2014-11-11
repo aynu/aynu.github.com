@@ -1,3 +1,0 @@
-# Maven Repository
-
-## Release Repository
