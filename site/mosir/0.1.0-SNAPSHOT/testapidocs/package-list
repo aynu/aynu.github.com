@@ -1,0 +1,6 @@
+com.github.aynu.mosir.core.enterprise
+com.github.aynu.mosir.core.standard
+com.github.aynu.mosir.core.testing
+com.github.aynu.mosir.tmpl.consumer
+com.github.aynu.mosir.tmpl.provider
+com.github.aynu.mosir.tmpl.registry
